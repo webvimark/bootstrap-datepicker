@@ -1,0 +1,9 @@
+{
+	"name": "webvimark/bootstrap-datepicker",
+	"description": "Bootstrap datepicker for Yii 2",
+	"autoload": {
+		"psr-4": {
+			"webvimark\\extensions\\BootstrapDatepicker\\": ""
+		}
+	}
+}
